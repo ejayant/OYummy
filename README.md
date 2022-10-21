@@ -1,5 +1,5 @@
-# OYummy [HTML/CSS]
-## Fully Responsive Website : oyummy.netlify.app
+# [OYummy](https://oyummy.netlify.app/) [HTML/CSS]
+## Fully Responsive Website
 ![image](https://user-images.githubusercontent.com/55839740/197304091-cd460ce6-9e1b-4548-8f3a-539146819198.png)
 ![image](https://user-images.githubusercontent.com/55839740/197304113-8ac6671d-e839-4bf9-b75c-543b51a8f709.png)
 ![image](https://user-images.githubusercontent.com/55839740/197304149-ba5e6e4e-19cf-463f-a8f4-5916c1958673.png)
